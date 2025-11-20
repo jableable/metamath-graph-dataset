@@ -1,7 +1,7 @@
 import re
 from collections import defaultdict
 import pandas as pd
-from metamath import Metamath
+from src.utils.metamath import Metamath
 import ast
 
 

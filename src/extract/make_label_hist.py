@@ -6,7 +6,7 @@
 # when labels are reorganized, highest label is "unknown" bin
 
 import pandas as pd
-from statement_embedding import get_thm_label_num
+from src.process.statement_embedding import get_thm_label_num
 
 
 # file limit is number of proof graphs to consider from data.json

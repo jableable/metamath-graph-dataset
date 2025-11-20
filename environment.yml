@@ -1,0 +1,8 @@
+name: proof-truth
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pexpect
+prefix: C:\Users\Jared\anaconda3\envs\proof-truth
